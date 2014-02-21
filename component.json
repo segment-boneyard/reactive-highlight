@@ -1,6 +1,6 @@
 {
   "name": "reactive-highlight",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "repo": "segmentio/reactive-highlight",
   "description": "Add synxtax highlighting to an element.",
   "keywords": [],
@@ -9,9 +9,7 @@
   "scripts": [
     "lib/index.js"
   ],
-  "dependencies": {
-    "segmentio/prism": "*"
-  },
+  "dependencies": {},
   "development": {
     "component/assert": "*"
   }
